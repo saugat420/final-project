@@ -1,0 +1,16 @@
+export { BenefitsSection } from "./sections/benefits-section";
+export { BonusesSection } from "./sections/bonuses-section";
+export { FinalCtaSection } from "./sections/final-cta-section";
+export { Footer } from "./sections/footer";
+export { GuaranteeSection } from "./sections/guarantee-section";
+export { HeroSection } from "./sections/hero-section";
+export { HowItWorksSection } from "./sections/how-it-works-section";
+export { ObjectionSection } from "./sections/objection-section";
+export { ProblemSection } from "./sections/problem-section";
+export { ServicesSection } from "./sections/services-section";
+export { SocialProofSection } from "./sections/social-proof-section";
+export { SolutionSection } from "./sections/solution-section";
+export { StickyMobileCta } from "./sections/sticky-mobile-cta";
+export { UrgencySection } from "./sections/urgency-section";
+export { ValueStackSection } from "./sections/value-stack-section";
+export { WhatsAppFloat } from "./sections/whatsapp-float";
